@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(http://fonts.googleapis.com/css?family=Averia+Serif+Libre:400,700);
 
 body {
   padding:50px;
-  font:18px/1.5 Helvetica, Arial, sans-serif;
+  font:18px/1.5 'Averia Serif Libre', serif;
   color:#777;
   font-weight:400;
 }
