@@ -10,6 +10,12 @@ footer {
 	background-color: #eaeaea;
 	width: 100%;
 }
+
+footer code {
+	color: #555;
+	border: none;
+	font-size:18px; 
+}
 meta.foundation-version {
   font-family: "/5.5.2/"; }
 
