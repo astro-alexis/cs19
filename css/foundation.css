@@ -1,11 +1,16 @@
 @import url("foundation-icons/foundation-icons.css");
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic);
 .sans {
 	color: #555;
 	text-transform: none;
 }
+footer {
+	background-color: #444;
+	width: 100%;
 
+}
 meta.foundation-version {
   font-family: "/5.5.2/"; }
 
@@ -78,7 +83,7 @@ body {
   position: relative; }
 
 .copyright {
-  color: #777;
+  color: #ccc;
 }
 a:hover {
   cursor: pointer; }
@@ -1773,7 +1778,7 @@ meta.foundation-mq-topbar {
     height: 2.8125rem;
     margin: 0; }
     .top-bar .name h1, .top-bar .name h2, .top-bar .name h3, .top-bar .name h4, .top-bar .name p, .top-bar .name span {
-      font-family: "Helvetica Neue", helvetica, sans-serif;
+      font-family: "Verdana", "Helvetica Neue", helvetica, sans-serif;
       font-size: 1.0625rem;
       line-height: 2.8125rem;
       margin: 0; }
@@ -3746,7 +3751,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  color: #bb3e3e;
+  color: #AAAAAA;
   font-family: "Source Sans Pro", "Helvetica Neue", helvetica, roboto, sans-serif;
   font-style: normal;
   font-weight: 900;
