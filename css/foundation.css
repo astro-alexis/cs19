@@ -14,7 +14,7 @@ footer {
 footer code {
 	color: #555;
 	border: none;
-	font-size:18px; 
+	font-size:18px;
 }
 meta.foundation-version {
   font-family: "/5.5.2/"; }
@@ -3832,7 +3832,7 @@ ul,
 ol,
 dl {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.6;
   list-style-position: outside;
   margin-bottom: 1.25rem; }

@@ -6,6 +6,7 @@
     background-position: center;
     background-size: cover;
   }
+
 @media (orientation: landscape) {
 	.with-bg-size { background-image: url(img/logowide.svg), url(img/hero-bg.jpg); }
 }
@@ -109,4 +110,3 @@
     text-align: left;
 	 text-transform: none;
 }
-
