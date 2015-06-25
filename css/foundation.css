@@ -2244,6 +2244,8 @@ meta.foundation-mq-topbar {
   font-family: "Helvetica Neue", helvetica, sans-serif;
   border-style: solid;
   border-width: 1px;
+	position: relative;
+	top: 45px !important;
   display: block;
   list-style: none;
   margin-left: 0;
