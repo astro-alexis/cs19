@@ -3573,7 +3573,9 @@ ul.pagination {
       padding: 1rem;
       margin-bottom: 0.5rem }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        background: #999; }
+        border-left: 7px solid #ddd;
+        margin-left: -7px;
+        }
     .accordion .accordion-navigation > .content, .accordion dd > .content {
       display: none;
       padding: 0.9375rem; }
