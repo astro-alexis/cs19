@@ -3550,7 +3550,8 @@ ul.pagination {
       text-transform: uppercase; }
 
 .accordion {
-  margin-bottom: 0; }
+  margin-bottom: 0rem; 
+  margin-left: -1.25rem}
   .accordion:before, .accordion:after {
     content: " ";
     display: table; }
@@ -3569,7 +3570,8 @@ ul.pagination {
       display: block;
       font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem;
-      padding: 1rem; }
+      padding: 1rem;
+      margin-bottom: 0.5rem }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
         background: #999; }
     .accordion .accordion-navigation > .content, .accordion dd > .content {
@@ -3844,7 +3846,7 @@ dl {
   margin-bottom: 1.25rem; }
 
 ul {
-  margin-left: 0rem; }
+  margin-left: 0.rem; }
   ul.no-bullet {
     margin-left: 0; }
     ul.no-bullet li ul,
@@ -3852,7 +3854,9 @@ ul {
       margin-left: 1.25rem;
       margin-bottom: 0;
       list-style: none; }
-
+.row ul li {
+  margin-left: 1.25rem;
+}
 /* Unordered Lists */
 ul li ul,
 ul li ol {
