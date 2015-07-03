@@ -6,6 +6,10 @@
 	color: #555;
 	text-transform: none;
 }
+
+.whenwhere {
+	font-size: 1.4rem;
+}
 footer {
 	background-color: #eaeaea;
 	width: 100%;
