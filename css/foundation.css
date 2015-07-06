@@ -3576,7 +3576,8 @@ ul.pagination {
       background: #EFEFEF;
       color: #444;
       display: block;
-      font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: monospace, Helvetica, Roboto, Arial, sans-serif;
+			font-weight: 400;
       font-size: 1rem;
       padding: 1rem;
       margin-bottom: 0.5rem }
@@ -3856,7 +3857,7 @@ dl {
   margin-bottom: 1.25rem; }
 
 ul {
-  margin-left: 0.rem; }
+  margin-left: 1.25rem; }
   ul.no-bullet {
     margin-left: 0; }
     ul.no-bullet li ul,
