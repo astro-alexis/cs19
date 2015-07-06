@@ -52,10 +52,17 @@ javascript is not allowed to run. Below is the code snippet
 ```
 For small screens, the content from "small.html" is loaded, for medium screens and large
 screens, "medium.html" is loaded. In case scripts are not allowed to run, the html
-within the <div data-interchange=[..]></div> is displayed. Feel free to change the
-type of information you want to display. If you do not want to use interchange, and
-display the same content for any device, simple remove the outer <div data-interchange=[..]></div>
-elements, inside the <div class="small-12 columns"></div>.
+within
+```html
+<div data-interchange="[small.html, (default)], [medium.html, (medium)]"></div>
+```
+ is displayed. Feel free to change the type of information you want to display.
+ If you do not want to use interchange, and display the same content for any device,
+ simply remove the outer
+ ```html
+ <div data-interchange="[small.html, (default)], [medium.html, (medium)]"></div>
+ ```
+element.
 
 ### Where to Host
 
