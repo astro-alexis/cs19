@@ -2250,7 +2250,6 @@ meta.foundation-mq-topbar {
   border-style: solid;
   border-width: 1px;
 	position: relative;
-	top: 45px !important;
 	margin-bottom: 70px;
   display: block;
   list-style: none;
