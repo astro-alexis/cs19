@@ -32,7 +32,10 @@ on the building blocks can be found on [Foundation 5 website](http://foundation.
 Interchange is a feature that will load different type of content for different
 sizes of screen. We use interchange in this template to display a simple text list
 of invited speakers for small screens, and a fancy circular photo with affiliations
-for medium- and large- sized devices. A default text is specified in case
+for medium- and large- sized devices.
+![Interchange for small screens](www.astro.uu.se/~alavail/misc/interchange_small.png)
+![Interchange for medium screens](www.astro.uu.se/~alavail/misc/interchange_medium.png)
+A default text is specified in case
 javascript is not allowed to run. Below is the code snippet
 
 ```html
@@ -62,7 +65,9 @@ within
  ```html
  <div data-interchange="[small.html, (default)], [medium.html, (medium)]"></div>
  ```
-element.
+element. Please keep in mind that a large number of people will access this webpage
+with mobiles devices and tablets. Therefore, you should avoid loading heavy, and/or
+large material on small screens.
 
 ### Where to Host
 
