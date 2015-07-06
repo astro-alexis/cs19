@@ -16,21 +16,20 @@
 
 window.onload = function() {
 	stickyFooter();
-	observer.observe(target, config);
+	sfObserver.observe(sfTarget, sfConfig);
 };
 
 //check for changes to the DOM
-var target = document.body;
+var sfTarget = document.body;
 
 // create an observer instance
-var observer = new MutationObserver(mutationObjectCallback);
-function mutationObjectCallback(mutationRecordsList) {
-
+var sfObserver = new MutationObserver(sfMutationObjectCallback);
+function sfMutationObjectCallback(mutationRecordsList) {
     stickyFooter();
 };
 
 // configuration of the observer:
-var config = { attributes: true, childList: true, characterData: true };
+var sfConfig = { attributes: true, childList: true, characterData: true };
 
 
 //check for resize event
@@ -39,7 +38,7 @@ window.onresize = function() {
 }
 
 //lets get the marginTop for the <footer>
-function getCSS(element, property) {
+function sfGetCSS(element, property) {
 
   var elem = document.getElementsByTagName(element)[0];
   var css = null;
@@ -57,7 +56,7 @@ function getCSS(element, property) {
 }
 
 function stickyFooter() {
-	observer.disconnect();
+	sfObserver.disconnect();
 	document.body.setAttribute("style","height:auto");
 
 	if (document.getElementsByTagName("footer")[0].getAttribute("style") != null) {
@@ -66,7 +65,7 @@ function stickyFooter() {
 
 	if (window.innerHeight != document.body.offsetHeight) {
 		var offset = window.innerHeight - document.body.offsetHeight;
-		var current = getCSS("footer", "margin-top");
+		var current = sfGetCSS("footer", "margin-top");
 
 		if (isNaN(current) == true) {
 			document.getElementsByTagName("footer")[0].setAttribute("style","margin-top:0px;");
@@ -75,7 +74,7 @@ function stickyFooter() {
 			current = parseInt(current);
 		}
 
-		if (current+offset > parseInt(getCSS("footer", "margin-top"))) {
+		if (current+offset > parseInt(sfGetCSS("footer", "margin-top"))) {
 			document.getElementsByTagName("footer")[0].setAttribute("style","margin-top:"+(current+offset)+"px;");
 		}
 	}
@@ -83,7 +82,7 @@ function stickyFooter() {
 	document.body.setAttribute("style","height:100%");
 
 	//reconnect
-	observer.observe(target, config);
+	sfObserver.observe(sfTarget, sfConfig);
 }
 
 /*

@@ -1,1 +1,1 @@
-# cs19-splinter
+# Webpage for Cool Stars 19
