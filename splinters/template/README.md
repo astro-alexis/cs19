@@ -33,8 +33,8 @@ Interchange is a feature that will load different type of content for different
 sizes of screen. We use interchange in this template to display a simple text list
 of invited speakers for small screens, and a fancy circular photo with affiliations
 for medium- and large- sized devices.
-![Interchange for small screens](www.astro.uu.se/~alavail/misc/interchange_small.png)
-![Interchange for medium screens](www.astro.uu.se/~alavail/misc/interchange_medium.png)
+![Interchange for small screens](http://www.astro.uu.se/~alavail/misc/interchange_small.png)
+![Interchange for medium screens](http://www.astro.uu.se/~alavail/misc/interchange_medium.png)
 A default text is specified in case
 javascript is not allowed to run. Below is the code snippet
 
