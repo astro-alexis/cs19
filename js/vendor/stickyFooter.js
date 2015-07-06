@@ -12,6 +12,11 @@
  * Modification for non-jquery, removed all, now classic JS Wed Jun 12 2013
  * Modification for Foundation 5 auto height issues
  * Modification for new DOM change event listener
+ *
+ * Date: Mon Jul 06 2015 13:57:00 GMT+0200 (Central European Summer Time)
+ * Modification for Foundation 5.5 to resolve JS compatibility issues with 
+ *     global variables names.
+ *
  */
 
 window.onload = function() {
