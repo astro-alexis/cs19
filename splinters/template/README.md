@@ -40,7 +40,7 @@ web server will remain accessible for an indefinite period of time after the
 conference. Therefore, splinter session pages that we host and information will
 be archived and preserved for future reference.
 
-### Usage
+## Usage
 We designed this template so that you - as a splinter organizer - can have your
 webpage running in a minimum amount of time. If you are happy with the template,
 and just want to replace the placeholders with actual information, then the task
@@ -50,7 +50,7 @@ to be done. If you want to tweak a little bit the
 template, you'll find below some details about the Foundation 5 components that
 we used in this template.
 
-#### Foundation grid layout
+### Foundation grid layout
 Foundation is using a [grid layout](http://foundation.zurb.com/docs/components/grid.html),
 with so-called rows and columns. When you want to add an element to the webpage,
 you create a row elements `<div class="row"></div>` which is a horizontal block,
@@ -83,7 +83,7 @@ takes the full-width for small screens (the two articles are one below the other
 
 
 
-#### Accordion
+### Accordion
 [Accordion](http://foundation.zurb.com/docs/components/accordion.html)
 is the component we use in the __Program__ section of the template,
 which reveals an abstract at a time when you click on a talk. If you click on
@@ -92,7 +92,7 @@ will then be hidden. We used this functionality so that the reader is not overwh
 by hundreds of lines of abstract at the same time. The user can just click on the
 interesting talks, and see its abstract.
 
-#### Interchange
+### Interchange
 [Interchange](http://foundation.zurb.com/docs/components/interchange.html)
 is a feature that will load different type of content for different
 sizes of screen. We use interchange in this template to display a simple text list
@@ -136,7 +136,7 @@ element. Please keep in mind that a large number of people will access this webp
 with mobiles devices and tablets. Therefore, you should avoid loading heavy, and/or
 large material on small screens.
 
-### Authors
+## Authors
 
 [Alexis Lavail](https://github.com/astro-alexis)
 
