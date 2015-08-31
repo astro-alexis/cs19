@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -29,9 +28,9 @@
      inkscape:window-height="1141"
      id="namedview3146"
      showgrid="false"
-     inkscape:zoom="0.49963233"
-     inkscape:cx="-140.11243"
-     inkscape:cy="214.84846"
+     inkscape:zoom="1.9985293"
+     inkscape:cx="857.28316"
+     inkscape:cy="335.1562"
      inkscape:window-x="0"
      inkscape:window-y="57"
      inkscape:window-maximized="0"
@@ -50,49 +49,48 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:0.53142856;stroke:#000000;stroke-width:0.23814695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3099-4"
+     d="m 521.06944,274.61914 a 10.344283,0.24056475 0 0 1 -0.0227,0.016" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ffffff;stroke-width:1.58187747;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3818"
+     d="m 534.42078,223.76508 a 20.875668,87.56936 45 1 1 -78.49384,79.24159" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bb3e3e;fill-opacity:0;stroke:#bb3e3e;stroke-width:2.14710212;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3097-5"
+     d="m 570.00487,276.86194 a 60.000441,57.573909 0 1 1 -120.00088,0 60.000441,57.573909 0 1 1 120.00088,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#001919;fill-opacity:0.6745098;stroke:#ffffff;stroke-width:1.57087016;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path4283"
+     d="m 558.5302,245.44053 1.70539,-2.57458" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#001919;fill-opacity:0.6745098;stroke:#ffffff;stroke-width:1.57087016;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path4283-8"
+     d="m 476.72018,326.43093 2.72109,-1.80118" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cd543e;fill-opacity:1;stroke:#bb3e30;stroke-width:1.4153378;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3816"
+     d="m 535.31643,281.61869 a 6.5892174,6.5097992 0 0 1 -13.17843,0 6.5892174,6.5097992 0 1 1 13.17843,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:53.38720703px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nevis;-inkscape-font-specification:Nevis Bold"
+     id="path5771"
+     d="m 528.96962,289.90596 c -2.29892,0 -4.22066,-0.77229 -5.76524,-2.31687 -1.54458,-1.55176 -2.31688,-3.47351 -2.31688,-5.76525 0,-2.2989 0.7723,-4.22064 2.31688,-5.76524 1.54458,-1.54456 3.46632,-2.31686 5.76524,-2.31688 2.29891,2e-5 4.22065,0.77232 5.76525,2.31688 1.54457,1.5446 2.31686,3.46634 2.31687,5.76524 -10e-6,2.29892 -0.7723,4.22067 -2.31687,5.76525 -1.5446,1.54458 -3.46634,2.31687 -5.76525,2.31687 m 0.0108,-3.01732 c 1.42962,10e-6 2.59345,-0.48493 3.49147,-1.45478 0.89801,-0.96985 1.34701,-2.17319 1.34703,-3.61002 -2e-5,-1.4368 -0.44902,-2.64014 -1.34703,-3.61001 -0.89802,-0.96984 -2.06903,-1.45477 -3.51302,-1.45478 -1.42965,10e-6 -2.59347,0.48494 -3.49148,1.45478 -0.89801,0.96987 -1.34703,2.17321 -1.34702,3.61001 -1e-5,1.43683 0.44901,2.64017 1.34702,3.61002 0.89801,0.96985 2.06901,1.45479 3.51303,1.45478" />
   <rect
-     style="opacity:1;fill:#000a1d;fill-opacity:0.7836991;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect5447"
-     width="1052.7742"
-     height="698.51367"
-     x="-18.013247"
-     y="-20.506292" />
-  <circle
-     style="fill:#bb3e3e"
-     id="circle7229"
-     r="50"
-     cy="269.50507"
-     cx="507.5" />
-  <path
-     d="M 379.24839,303.5853 A 29.872483,132.70244 75.118728 1 0 635.75161,235.42484 29.872483,132.70244 75.118728 1 0 379.24839,303.5853"
-     id="theMotionPath"
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:none;stroke-width:1.96079409" />
-  <!-- Here is a red circle which will be moved along the motion path. -->
-  <!-- Second thing: the white disk-->
-  <circle
-     cx=""
-     cy=""
-     r="15"
-     fill="#323232"
-     id="circle434"
-     style="fill:#ffffff;fill-opacity:1">
-    <!-- Define the motion path animation -->
-    <animateMotion
-       begin="0s"
-       dur="40s"
-       repeatCount="indefinite"
-       id="rotation1">
-      <mpath
-         xlink:href="#theMotionPath"
-         id="mpath438" />
-    </animateMotion>
-  </circle>
-  <path
-     d="m 554.49329,252.42786 a 50,50 0 1 0 -93.96925,34.20201 z"
-     id="path7233"
-     inkscape:connector-curvature="0"
-     style="fill:#bb3e3e" />
+     style="color:#000000;fill:#323232;fill-opacity:0.86554625;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect4255"
+     y="358.91913"
+     x="297.17654"
+     height="99.716614"
+     width="420.64694" />
   <g
      id="g4125"
      transform="matrix(1.0079792,0,0,1.0079792,-115.70691,-332.00801)">
