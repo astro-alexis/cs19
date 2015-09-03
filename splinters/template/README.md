@@ -40,6 +40,23 @@ web server will remain accessible for an indefinite period of time after the
 conference. Therefore, splinter session pages that we host and information will
 be archived and preserved for future reference.
 
+### Using our Template
+
+To use our template, first [fork the main CS19 webpage repository](https://help.github.com/articles/fork-a-repo/).
+Next, in the `splinters/` directory, make a copy of the `template/` directory and give it a name associated with 
+your proposed splinter session. From the top level directory,
+```
+cd splinters/
+cp -r template/ my_splinter/
+```
+Now edit the `index.html` file to suit your purposes. Some of the more useful features of Foundation 5
+are described below. 
+
+Once your splinter session webpage is acceptable, [create a pull request](https://help.github.com/articles/creating-a-pull-request/) to merge your forked repository with
+the main Cool Stars 19 repository. We'll confirm that everything is compatible and that no changes to the main
+Cool Stars 19 webpage were made. Then you're all set! Continue to edit and create pull requests as information
+about your splinter session evolves.
+
 ## Usage
 We designed this template so that you - as a splinter organizer - can have your
 webpage running in a minimum amount of time. If you are happy with the template,
