@@ -15,6 +15,18 @@ footer {
 	width: 100%;
 }
 
+footer a {
+	border-bottom-style: none !important;
+}
+
+.breadcrumbs a {
+		border-bottom-style: none !important;
+}
+
+.top-bar a {
+		border-bottom-style: none !important;
+}
+
 footer code {
 	color: #555;
 	border: none;
