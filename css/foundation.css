@@ -3750,7 +3750,8 @@ td {
 a {
   color: #bb3e3e;
   line-height: inherit;
-  text-decoration: none; }
+	text-decoration: none;
+	border-bottom:1px dotted; }
   a:hover, a:focus {
     color: #bb5d5d; }
   a img {
