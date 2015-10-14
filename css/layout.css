@@ -39,7 +39,7 @@
     width: 130px;
     height: 130px;
     margin: 10px auto 10px auto;
-    border: 2px solid #333;
+    border: 2px solid #444;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -57,7 +57,7 @@
 }
 
 #card h1 {
-    color: #333;
+    color: #444;
     font-size: 2.4rem;
     font-weight: normal;
     text-decoration: none;
@@ -66,7 +66,7 @@
 
 #card h2 {
     font-family: "Source Sans Pro","Helvetica Neue", helvetica, sans-serif;
-    color: #333;
+    color: #444;
     font-weight: 400;
     font-size: 16pt;
     text-decoration: none;
@@ -77,7 +77,7 @@
 
 #card h3 {
     font-family: "Merriweather", "Georgia", serif;
-    color: #333;
+    color: #444;
     font-weight: 400;
     font-size: 12pt;
     text-decoration: none;
@@ -90,14 +90,14 @@
 #card div {
     display: inline-block;
     margin: 8px auto 8px auto;
-    color: #333;
+    color: #444;
     font-size: 26pt;
     text-decoration: none;
     text-align: center;
 }
 
 #card a {
-    color: #333;
+    color: #444;
 }
 
 #card a:hover {
