@@ -1828,7 +1828,7 @@ meta.foundation-mq-topbar {
       line-height: 2.8125rem;
       padding: 0 0.9375rem;
       position: relative;
-      text-transform: uppercase; }
+      text-transform: none; }
     .top-bar .toggle-topbar.menu-icon {
       margin-top: -16px;
       top: 50%; }
@@ -1893,7 +1893,7 @@ meta.foundation-mq-topbar {
       font-family: "Montserrat", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 0.87rem;
       font-weight: normal;
-      text-transform: uppercase;
+      text-transform: none;
       /*padding-left: 0.9375rem;*/
       padding: 12px 0 12px 0.9375rem;
       width: 100%; }
