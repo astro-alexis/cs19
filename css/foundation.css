@@ -1,17 +1,22 @@
 @import url("foundation-icons/foundation-icons.css");
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 iframe{
 	width: 100%;
 	height: 40vh;
 	min-height: 300px;
 }
 .sans {
-	color: #555;
+	color: #2c4251;
+	font-family: "Source Sans Pro","Helvetica Neue",helvetica, sans-serif;
 	text-transform: none;
+	font-weight: bold;
 }
 
+.accordion .sans{
+	font-family: "Montserrat","Helvetica Neue",helvetica, sans-serif;
+}
 .whenwhere {
 	font-size: 1.4rem;
 }
@@ -3585,20 +3590,21 @@ ul.pagination {
     display: block;
     margin-bottom: 0 !important; }
     .accordion .accordion-navigation.active > a, .accordion dd.active > a {
-      background: #666;
-      color: #efefef;
+      background: #2c4251;
+      color: #fcfcfc;
     }
     .accordion .accordion-navigation > a, .accordion dd > a {
       background: #EFEFEF;
       color: #444;
       display: block;
-      font-family: monospace, Helvetica, Roboto, Arial, sans-serif;
+      font-family: "Montserrat", Helvetica, Roboto, Arial, sans-serif;
 			font-weight: 400;
       font-size: 1rem;
       padding: 1rem;
+			border-bottom: none;
       margin-bottom: 0.5rem }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        border-left: 7px solid #fff270;
+        border-left: 7px solid #56829f;
         margin-left: -7px;
         }
     .accordion .accordion-navigation > .content, .accordion dd > .content {
@@ -5390,8 +5396,10 @@ table {
     background: #F5F5F5; }
     table thead tr th,
     table thead tr td {
-      color: #222222;
-      font-size: 0.875rem;
+			font-family: "Montserrat", "Helvetica Neue", helvetica, roboto, sans-serif;
+			font-weight: 400
+      color: #666;
+      font-size: 1.3rem;
       font-weight: bold;
       padding: 0.5rem 0.625rem 0.625rem; }
   table tfoot {
@@ -5404,10 +5412,16 @@ table {
       padding: 0.5rem 0.625rem 0.625rem; }
   table tr th,
   table tr td {
-    color: #222222;
-    font-size: 0.875rem;
+		font-family: "Merriweather", "Helvetica Neue", helvetica, sans-serif;
+    color: #333;
+    font-size: 1.15rem;
     padding: 0.5625rem 0.625rem;
+		font-weight: 400;
     text-align: left; }
+	.calbreak {
+		background-color: #ccc !important;
+		font-style: italic;
+	}
   table tr.even, table tr.alt, table tr:nth-of-type(even) {
     background: #F9F9F9; }
   table thead tr th,
@@ -5417,7 +5431,7 @@ table {
   table tbody tr td,
   table tr td {
     display: table-cell;
-    line-height: 1.125rem; }
+    line-height: 1.425rem; }
 
 .range-slider {
   border: 1px solid #DDDDDD;
