@@ -14,7 +14,7 @@
    id="svg3265"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo_nt.svg">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs3267" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="384.86662"
+     inkscape:cx="502.04432"
      inkscape:cy="302.3135"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,10 +52,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-384.36218)">
-    <path
-       style="fill:#000000;fill-opacity:0.71372549;stroke:none"
-       d="m 0,384.36218 1015,0 0,668.00002 -1015,0 z"
-       id="rect4465" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.71372551;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4465"
+       width="1015"
+       height="668"
+       x="0"
+       y="384.36218" />
     <g
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.58131313px;line-height:95.99999785%;font-family:Patagonia;-inkscape-font-specification:'Patagonia Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="text3094"
