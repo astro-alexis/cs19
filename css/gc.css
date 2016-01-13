@@ -1,0 +1,46 @@
+.red {
+  background-color: #bb3e3e;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.grey1 {
+  background-color: #999999;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.grey2 {
+  background-color: #444444;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.grey3 {
+  background-color: #EAEAEA;
+  color: #444;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+texte {
+  margin: 0;
+  font-family: "Merriweather", Georgia, serif;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+.sans2 {
+	color: inherit;
+	font-family: "Source Sans Pro","Helvetica Neue",helvetica, sans-serif;
+	text-transform: none;
+	font-weight: bold;
+}
