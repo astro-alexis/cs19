@@ -2936,6 +2936,7 @@ meta.foundation-mq-topbar {
     padding: 1.25rem 1.25rem 0;
     text-align: center; }
 
+
 @-webkit-keyframes rotate {
   from {
     -webkit-transform: rotate(0deg);
@@ -3897,7 +3898,7 @@ ul {
       margin-bottom: 0;
       list-style: none; }
 .row ul li {
-  margin-left: 1.25rem;
+  margin-left: 0rem;
 }
 /* Unordered Lists */
 ul li ul,
