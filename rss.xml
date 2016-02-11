@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Cool Stars 19</title>
+  <link>www.coolstars19.com</link>
+  <description>The latest news of Cool Stars 19</description>
+  <item>
+      <title>Request for financial support</title>
+      <link>www.coolstars.com/news#160131</link>
+      <description>Registration will be open soon.
+        Meanwhile, we are accepting requests for financial support.
+        You can find the conditions and the form on the registration webpage.</description>
+  </item>
+  <item>
+      <title>The CS19 hackaton is announced</title>
+      <link>www.coolstars.com/news#160202</link>
+      <description>The CS 19 hackaton is officially announced and registration
+        is now open to 50 first participants. Visit the hack day webpage for more information.</description>
+  </item>
+</channel>
+</rss>
