@@ -17,6 +17,10 @@ iframe{
 .orange a {
 	color: #FA9B39!important;
 }
+.montse {
+	font-family: "Montserrat", "Helvetica Neue", roboto, helvetica, sans-serif;
+	font-weight: 400;
+}
 
 .sans {
 	color: #2c4251;
