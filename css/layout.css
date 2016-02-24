@@ -11,7 +11,10 @@
 	.with-bg-size { background-image: url(img/logowide.svg), url(img/hero-bg.jpg); }
 }
 
-
+imgcaption {
+  font-style: italic;
+  font-size: 0.8em;
+}
 /* ---------------- Speaker Card Environment ------------- */
 #card-collection {
     width: 100%;
@@ -128,5 +131,5 @@
     font-size: 1.2rem;
     font-weight: normal;
     padding: 0.0rem 1.25rem 0.9375rem 1.25rem;
-    text-align: center; 
+    text-align: center;
 }
