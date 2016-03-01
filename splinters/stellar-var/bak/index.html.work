@@ -1,0 +1,369 @@
+<!-- CS19 splinter session template-->
+<!-- The first thing you should do, is to search for all the occurences of "TO-DO" -->
+<!-- in this document, it will bring you to where changes need to be made for sure. -->
+
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<!-- TO-DO: Change the title of the page here-->
+    <!-- <title>Constraining Solar/Stellar Activity and Magnetically-Driven Variability</title> -->
+	<title>Variability of Solar/Stellar Magnetic Activity</title>
+
+	<!-- Stylesheet and javascript are called here -->
+	<link rel="stylesheet" href="../../css/foundation.css" />
+	<link rel="stylesheet" href="../../css/layout.css" />
+    <link rel="stylesheet" href="css/parallax.css" />
+    <style>
+        .myerror {
+            color: #b94141;
+            font-size: 80%;
+            font-style: italic;
+        }
+    </style>
+    
+    <script src="../../js/vendor/modernizr.js"></script>
+	<!--script src="../../js/vendor/stickyFooter.js"></script-->
+</head> <!-- end of the header -->
+
+<body> <!-- beginning of the body -->
+
+	<div class="fixed"> <!-- beginning of the top navigation bar -->
+		<nav class="top-bar" data-topbar role="navigation">
+			<ul class="title-area">
+			    <li class="name">
+   	   			<!--<p><a href="../../index.html">CS19</a></p>-->
+                <p><a href="http://www.coolstars19.com/index.html">CS19</a></p>
+   	 		</li>
+				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li> <!-- Mobile navigation -->
+			</ul>
+			<section class="top-bar-section">
+				<!-- Left Nav Section -->
+				<ul class="left">
+                    <li class="active"><a href="index.html">Variability of Solar/Stellar Magnetic Activity</a></li>
+                    <li><a href="index.html#program">Program</a></li>
+                    <li><a href="index.html#register">Abstract submission</a></li>
+                    <li><a href="index.html#soc">Committee</a></li>
+                    <li><a href="index.html#invited">Invited Speakers</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+
+				</ul>
+			</section>
+		</nav>
+	</div> <!-- end fixed div for top-bar-->
+
+	<!-- Beginning of the content -->
+    <div class="parallax-background">
+            <img src="images/solar_cycle.jpg" alt="Solar cycle: montage of ten years' worth of Yohkoh SXT images. Credit: the Yohkoh mission (ISAS, japan) and NASA (USA); David Chenette, Joseph B. Gurman, Loren W. Acton (http://solar.physics.montana.edu/mckenzie/Images/The_Solar_Cycle_XRay_hi.jpg )" width=100%>
+    </div>
+    
+	<!-- Here goes the title-->
+	<div class="row">
+		<div class="small-12 columns"> <!-- full width column header-->
+            <!-- TO-DO: Change splinter title here -->
+            <h1 align="right" style="color:#ccc">
+                Variability of Solar/Stellar <br/> Magnetic Activity
+			</h1>
+			<!-- horizontal line -->
+			<hr />
+			<h2 align="right" style="color:#ccc">
+				A COOL STARS 19 Splinter Session
+			</h2>
+
+			<!-- where and when -->
+			<p align="right" class="whenwhere" style="color:#eee">
+            <em>Part I:  7 June 2016, 14:00 - 17:00 </em>
+            <br/>
+            <em>Part II: 9 June 2016, 14:00 - 17:00 </em>
+			</p>
+		</div> <!-- end class 12 col-->
+	</div> <!-- end class="row"-->
+    
+<div class="parallax-content"> <!-- Parallax: start-->
+
+    <div id="soc"></div>
+    <div class="row">
+		<div class="small-12 columns">
+			<h3>
+				Session organizers
+			</h3>
+			<ul>
+                <li>Damian Fabbian (Max Planck Institute for Solar Physics, Germany)</li>
+                <li>Rosaria Simoniello (University of Geneva, Switzerland)</li>
+				<li>Remo Collet (Aarhus University, Denmark)</li>
+                <li>Serena Criscuoli (National Solar Observatory, USA)</li>
+                <li>Heidi Korhonen (University of Turku, Finland)</li>
+                <li>Natalie Krivova (Max Planck Institute for Solar Physics, Germany)</li>
+                <li>Katalin Oláh (Konkoly Observatory, Hungary)</li>
+                <li>Alexander Shapiro (Max Planck Institute for Solar Physics, Germany)</li>
+                <li>Aline Vidotto (University of Geneva, Switzerland)</li>
+                <li>Nikola Vitas (Instituto de Astrofisica de Canarias, Spain)</li>
+			</ul>
+		</div>
+	</div>
+    
+    <div id="rationale"></div>
+    <br/>
+	<div class="row">
+		<div class="small-12 columns">
+			<h3>
+				Scientific Motivation
+			</h3>
+            <p>
+            The increasing spatial and temporal resolution of spectro-polarimeter observations, statistical studies based on unprecedentedly huge samples of stars obtained from space-borne observatories like KEPLER and COROT, and the use of massively parallel supercomputers have rapidly changed our view of stellar magnetic activity and variability throughout stellar evolution. This wealth of observational information is progressively getting closer to the richness of solar observations, for which continuous monitoring is now available at extremely high spatial resolution and throughout the electromagnetic spectrum (HINODE, SDO).
+            </p>
+            <p>
+            Solar like stars are on the lower main sequence and are known to show chromospheric activity similar to that on the Sun in the Ca II H and K emission. Magnetic activity shows erratic, multi or single periodic behavior, interrupted by long quiescent periods of activity (grand minima). What is the origin of this broad range of variability in stellar activity?
+            </p>
+            <p>
+            In solar like stars, the cyclic activity is ascribed to a dynamo mechanism maintained through differential rotation at the tachocline. However the tachocline moves towards increasing depths with later spectral types, disappearing around M4. Thus, a direct comparison between the stellar activity in solar-type with lower-mass stars is essential for the understanding of the effect of stellar mass on the resulting magnetic activity through a dynamo mechanism.
+            </p>
+            <p>
+            This Splinter is aimed at offering a synthetic view of the recent progresses in the domain of variability of stellar magnetism and activity from different perspectives. We invite terrestrial, solar and stellar astrophysicists to present their latest results, as there is an intimate interplay between magnetic activity and variability of our Sun and cool stars.
+            </p>
+            
+          </div>
+	</div>
+    
+    <div id="program"></div>
+    <br/>
+	<div class="row">
+		<div class="small-12 columns">
+			<h3>
+                Program
+			</h3>
+            <p>
+            This splinter session will be split over two afternoons, Tuesday 7 June and Thursday 9 June.
+            </p>
+            <p>
+            In Session 1 (<u>Tuesday 7 June</u>), we will address the nature of solar/stellar magnetic variability based on observations of the Sun and other cool stars. We will focus on solar/stellar brightness variations on different time scales as well as at the properties of solar/stellar magnetic fields
+            </p>
+            <p>
+            In session 2 (<u>Thursday 9 June</u>), we will address the origin and evolution of stellar magnetic activity in light of the latest results from survey and dynamo theory.
+            </p>
+            
+            <ul class="accordion" data-accordion>
+  				<li class="accordion-navigation">
+    				<a href="#panel1a">Tue 7 June | <strong>Session 1: Magnetic variability as a key to explore solar/stellar connection</strong></a>
+    				<div id="panel1a" class="content">
+      					[...]
+    				</div>
+  				</li>
+  				<li class="accordion-navigation">
+   					<a href="#panel2a">14:00 - 15:15 | <strong>Session 1.1: Solar/stellar variability: observational properties and theory </strong></a>
+    				<div id="panel2a" class="content">
+     					[...]
+    				</div>
+  				</li>
+  				<li class="accordion-navigation">
+    				<a href="#panel3a">15:45 - 17:00 | <strong>Session 1.2: Stellar magnetic fields and their impact on the surrounding environment</strong></a>
+    				<div id="panel3a" class="content">
+      					[...]
+    				</div>
+  				</li>
+                <li class="accordion-navigation">
+                    <a href="#panel4a">Thu 9 June | <strong>Session 2: Magnetic activity and variability throughout evolution</strong></a>
+                    <div id="panel4a" class="content">
+                        [..]
+                    </div>
+                </li>
+                <li class="accordion-navigation">
+                    <a href="#panel5a">14:00 - 15:15 | <strong>Session 2.1: Rotation/Activity relation from stellar survey and theory</strong></a>
+                    <div id="panel5a" class="content">
+                        [...]
+                    </div>
+                </li>
+                <li class="accordion-navigation">
+                    <a href="#panel6a">15:45 - 17:00 | <strong>Session 2.2: Constraining Solar/Stellar dynamo theory</strong></a>
+                    <div id="panel6a" class="content">
+                        [...]
+                    </div>
+                </li>
+			</ul>
+		</div>
+	</div>
+
+    <div id="invited"></div>
+    <br/>
+    <div class="row">
+	  <div class="small-12 columns">
+	    <h3>
+	      Invited speakers
+	    </h3>
+			<!-- <div data-interchange="[small.html, (default)], [medium.html, (medium)]"> -->
+             <div>
+				<ul>
+                    <li><a href="https://www2.mps.mpg.de/homes/solanki/">Sami Solanki</a> (Max Planck Institute for Solar Physics, Germany)</li>
+                    <li><a href="http://www.nso.edu/staff/giampapa">Mark Giampapa</a> (National Solar Observatory, USA)</li>
+                    <li><a href="http://astro.berkeley.edu/faculty-profile/gibor-basri">Gibor S. Basri</a> (University of California in Berkeley, USA) <i>(To Be Confirmed)</i></li>
+                    <li><a href="http://staff.ucar.edu/users/miesch">Mark S. Miesch</a> (National Center for Atmospheric Research, USA) <i>(To Be Confirmed)</i></li>
+                    <li><a href="http://staffsearch.usq.edu.au/?staffsearchaction=showdetailsfull&staffsearchrecordid=7003">Stephen Marsden</a> (University of South Queensland, Australia) <i>(To Be Confirmed)</i></li>
+                    <li><a href="http://www.astronomy.villanova.edu/faculty/guinan/guinan.htm">Edward F. Guinan</a> (Villanova University, USA) <i>(To Be Confirmed)</i></li>
+                </ul>
+             </div>
+      </div>
+    </div>
+
+    <div id="register"></div>
+	<br/>
+    <div class="row">
+        <div class="small-12 columns">
+            <h3>
+                Abstract submission
+            </h3>
+            <p>
+            If you would like to present an oral contribution at this spinter session, please fill the form below and click on the &quot;Submit&quot; button to register your interest and send us your abstract.
+            </p>
+            <p>
+            <b>Please note that this is not a registration form for attending Cool Stars 19 or submitting an abstract for a poster: you will have to go to the main page of CS19 in order to register your participation and/or submit a poster contribution. </b>
+            </p>
+
+            <!-- Registration form, PHP code -->
+            <p>
+            <?php
+                // define variables and set to empty values
+                $nameErr = $emailErr = $affiliationErr = $titleErr = $abstractErr = "";
+                $name = $email = $title = $abstract = $affiliation = "";
+                
+                if ($_SERVER["REQUEST_METHOD"] == "POST") {
+                    if (empty($_POST["name"])) {
+                        $nameErr = "* Name is required <br>";
+                        $name = "";
+                    } else {
+                        $name = test_input($_POST["name"]);
+                        // check if name only contains letters and whitespace
+                        if (!preg_match("/^[a-zA-Z ]*$/",$name)) {
+                            $nameErr = "Only letters and white space allowed";
+                        }
+                    }
+                    
+                    if (empty($_POST["affiliation"])) {
+                        $affiliationErr = "* Affiliation is required <br>";
+                        $affiliation = "";
+                    } else {
+                        $affiliation = test_input($_POST["affiliation"]);
+                    }
+                    
+                    if (empty($_POST["email"])) {
+                        $emailErr = "* E-mail is required <br>";
+                        $email = "";
+                    } else {
+                        $email = test_input($_POST["email"]);
+                        // check if e-mail address is well-formed
+                        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+                            $emailErr = "* Invalid e-mail format <br>";
+                        }
+                    }
+                    
+                    if (empty($_POST["title"])) {
+                        $titleErr = "* Title is required <br>";
+                        $title ="";
+                    } else {
+                        $title = test_input($_POST["title"]);
+                    }
+                    
+                    
+                    if (empty($_POST["abstract"])) {
+                        $abstractErr = "* Abstract is required <br>";
+                        $abstract ="";
+                    } else {
+                        $abstract = test_input($_POST["abstract"]);
+                    }
+                    
+                }
+            
+                function test_input($data) {
+                    $data = trim($data);
+                    $data = stripslashes($data);
+                    $data = htmlspecialchars($data);
+                    return $data;
+                }
+            ?>
+            
+            <!--<p><span class="error">* required field.</span></p> -->
+            <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+                Name: <span class="myerror"> <?php echo $nameErr;?></span> <input type="text" name="name"></input>
+                E-mail: <span class="myerror"> <?php echo $emailErr;?></span> <input type="text" name="email"></input>
+                Affiliation: <span class="myerror"> <?php echo $affiliationErr;?></span> <input type="text" name="affiliation"></input>
+                Title (oral contributions only): <span class="myerror"> <?php echo $titleErr;?></span> <input type="text" name="title"></input>
+                Abstract: <span class="myerror"> <?php echo $abstractErr;?></span> <textarea name="abstract" rows="5"></textarea>
+                <input type="submit" name="submit" value="Submit"></input>
+            </form>
+            
+            <?php
+                if(isset($_POST['submit'])) {
+                   //$myemail = "remo.collet@gmail.com"; // this is the e-mail address of the organiser
+                   $myemail = "fabbian@mps.mpg.de"; // this is the e-mail address of the organiser
+                   $email2 = $_POST['email']; // this is the sender's e-mail address
+                   $name2 = $_POST['name'];
+                   $title2 = $_POST['title'];
+                   $affil2 = $_POST['affiliation'];
+                   $abstract2 = $_POST['abstract'];
+                   
+                   
+                   $subject = "Notification: Abstract Submission - CS19 Splinter Session on Variability of Solar/Stellar Magnetic Activity";
+                   $subject2 = "Abstract Submission -CS19 Splinter Session on Variability of Solar/Stellar Magnetic Activity";
+                   $message = "Full Name: " . $name2 . "\n\n Affiliation: " . $affil2 . "\n\n E-mail: " . $email2 . "\n\n Title:" . $title2 . "\n\n Abstract2: " . $abstract2 . "\n";
+                   $message2 = "Thank you for registering your interest in presenting an oral contribution at the CS19 Splinter Session on Variability of Solar/Stellar Magnetic Activity. \n\nPlease find here below the receipt of your abstract submission. We will contact you within the next few weeks to inform you about our decision when we will have finalised the program for the session. \n\nKind regards, \n\nDamian Fabbian and Rosaria Simoniello \n(On behalf of the Scientific Organising Committee)\n\n" . "----------------------------------------------------------------------" . "\n\n" . $message;
+                   $headers = "From:" . $email2;
+                   $headers2 = "From:" . $myemail;
+                   mail($myemail,$subject,$message,$headers);
+                   mail($email2,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+                   // echo "Abstract Submitted. Thank you, " . $name2 . "!";
+                   // You can also use header('Location: thank_you.php'); to redirect to another page.
+                   
+                }
+            ?>
+            </p>
+            
+        </div>
+    </div>
+    
+    <div id="contact"></div>
+    <br/>
+    <div class="row">
+        <div class="small-12 columns">
+            <h3>
+                Contact
+            </h3>
+            <p>
+            Questions about this splinter session can be directed to <a href="mailto:fabbian@mps.mpg.de">Damian Fabbian</a> or <a href="mailto:Rosaria.Simoniello@unige.ch">Rosaria Simoniello</a>.
+            </p>
+            <p>
+            If you experience problems with the website and/or the registration form, please send an e-mail to <a href="mailto:remo@phys.au.dk">Remo Collet</a>.
+            </p>
+        </div>
+    </div>
+
+	<footer>
+		<div class="row">
+			<div class="small-6 columns">
+				<h1 align="right"><a href="https://twitter.com/hashtag/cs19" target="_blank"><i class="fi-social-twitter"></i></a></h1>
+			</div>
+			<div class="small-6 columns">
+				<h1 align="left"><a href="https://www.facebook.com/groups/1464538487100756/" target="_blank"><i class="fi-social-facebook"></i></a></h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="small-12 columns">
+				<p align="center" class="copyright">
+					&copy; Cool Stars 19 | website powered by Foundation 5<br/>
+					<code>last updated : 2015-11-03</code> <!-- TO-DO: update this part everytime you change the page. -->
+				</p>
+			</div>
+		</div>
+	</footer>
+    <script src="../../js/vendor/jquery.js"></script>
+    <script src="../../js/vendor/fastclick.js"></script>
+    <script src="../../js/vendor/stickyFooter.js"></script>
+    <script src="../../js/foundation/foundation.min.js"></script>
+
+	<script>
+		$(document).foundation();
+	</script>
+    
+</div> <!-- Parallax: end -->
+</body>
+</html>

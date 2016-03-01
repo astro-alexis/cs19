@@ -1,0 +1,29 @@
+body {
+}
+
+.parallax-background {
+	background-color: #000;
+	height: 600px;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+}
+
+.intro-text {
+	font-size: 50px;
+	color: #fff;
+	text-align: center;
+	margin-top: 15%;
+}
+.parallax-content {
+	max-width: 100%;
+	position: relative;
+	top: 100px;
+	padding: 50px;
+	font-size: 20px;
+	background-color: #fff;
+}
