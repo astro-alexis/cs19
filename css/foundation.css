@@ -35,7 +35,9 @@ iframe{
 	font-family: "Montserrat", "Helvetica Neue", roboto, helvetica, sans-serif;
 	font-weight: 400;
 }
-
+.helvetica {
+	font-family: "Helvetica Neue", roboto, helvetica, sans-serif;
+}
 .sans {
 	color: #2c4251;
 	font-family: "Source Sans Pro","Helvetica Neue",helvetica, sans-serif;
@@ -3491,7 +3493,7 @@ meta.foundation-mq-topbar {
 .tabs-content {
   margin-bottom: 1.5rem;
   border-style: solid;
-  border-width: 5px;
+  border-width: 0px;
 	border-color: rgb(239, 239, 239);
 	padding-left: 10px;
 	padding-right: 10px;
@@ -3813,7 +3815,7 @@ a {
   color: #bb3e3e;
   line-height: inherit;
 	text-decoration: none;
-	border-bottom:1px dotted; }
+	border-bottom:1px solid; }
   a:hover, a:focus {
     color: #bb5d5d; }
   a img {
