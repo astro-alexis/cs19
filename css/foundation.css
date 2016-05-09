@@ -5476,6 +5476,9 @@ table {
 		font-weight: 400;
     text-align: left; }
 
+	tr a {
+		line-height: 2rem;
+	}
 
 	.calbreak {
 		background-color: #ccc !important;
