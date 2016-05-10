@@ -1,5 +1,5 @@
 @import url("foundation-icons/foundation-icons.css");
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400italic,600,700);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
@@ -9,6 +9,17 @@
 	}
 }
 
+.abstract-title h3 {
+	margin-bottom: 0.0rem;
+	color: #323232;
+}
+.abstract-title h4 {
+	color: #323232;
+	font-weight: 300;
+	margin-top: 0.0rem;
+	margin-bottom: 0.0rem
+	text-transform: none;
+}
 .lecture-header {
 	background-image: url("../images/edf.jpg");
 	background-repeat: no-repeat;
