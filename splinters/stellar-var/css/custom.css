@@ -1,35 +1,35 @@
 .accordion {
-  margin-bottom: 0rem;
-  margin-left: 0.25rem}
-  .accordion:before, .accordion:after {
+    margin-bottom: 0rem;
+    margin-left: 0.25rem}
+.accordion:before, .accordion:after {
     content: " ";
     display: table; }
-  .accordion:after {
+.accordion:after {
     clear: both; }
-  .accordion .accordion-navigation, .accordion dd {
+.accordion .accordion-navigation, .accordion dd {
     display: block;
     margin-bottom: 0 !important; }
-    .accordion .accordion-navigation.active > a, .accordion dd.active > a {
-      background: #ace5ee;
-      color: #030303;
-    }
-    .accordion .accordion-navigation > a, .accordion dd > a {
-      background: #EFEFEF;
-      color: #444;
-      display: block;
-      font-family: "Montserrat", Helvetica, Roboto, Arial, sans-serif;
-			font-weight: 400;
-      font-size: 1rem;
-      padding: 1rem;
-			border-bottom: none;
-      margin-bottom: 0.5rem }
-      .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        border-left: 7px solid #00aae4;
-        margin-left: -7px;
-        }
-    .accordion .accordion-navigation > .content, .accordion dd > .content {
-      display: none;
-      padding: 0.9375rem; }
-      .accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
-        background: #FFFFFF;
-        display: block; }
+.accordion .accordion-navigation.active > a, .accordion dd.active > a {
+    background: #ace5ee;
+    color: #030303;
+}
+.accordion .accordion-navigation > a, .accordion dd > a {
+    background: #EFEFEF;
+    color: #444;
+    display: block;
+    font-family: "Montserrat", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    padding: 1rem;
+    border-bottom: none;
+    margin-bottom: 0.5rem }
+.accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
+    border-left: 7px solid #00aae4;
+    margin-left: -7px;
+}
+.accordion .accordion-navigation > .content, .accordion dd > .content {
+    display: none;
+    padding: 0.9375rem; }
+.accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
+    background: #FFFFFF;
+    display: block; }
